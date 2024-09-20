@@ -1,7 +1,7 @@
 # Multiband EEG Signature - Bayesian Latent Space Modeling
 
 ## **Overview**
-Here we present a combined itEMD and SBLEST framework that uses multiband (multi-intrinsic mode function) information for the purpose of predicting treatment outcome in psychiatric disorders. The framework begins with decomposing EEG data into instrinsic mode functions (IMF) via itEMD. The IMFs and the residual signal is combined into a diagonal block matrix which serves as the feature input into the modified SBLEST model. After training, we obtain both treatment prediction and treatment specific spatial filters associated with each IMF. 
+Here we present a combined itEMD and SBLEST framework that uses multiband (multi-intrinsic mode function) information for the purpose of predicting treatment outcome in psychiatric disorders. The framework begins with decomposing EEG data into instrinsic mode functions (IMF) via itEMD. The IMFs and the residual signal is combined into a diagonal block matrix which serves as the feature input into the modified SBLEST model. After training, we obtain both treatment prediction and treatment specific spatial filters respective to each IMF. 
 
 This framework's application has been demonstrated in predicting rTMS treatment outcomes for those diagnosed with Major Depressive Disorder (MDD). For more details, please see the accompanying paper.
 
