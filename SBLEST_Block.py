@@ -2,7 +2,7 @@
 
 Original author of SBLEST Code:
 
-"W. Wang, F. Qi, D. Wipf, C. Can, T. Yu, Z. Gu, Y. Li, Z. Yu, W. Wu. Sparse Bayesian Learning for End-to-End EEG Decoding
+"W. Wang, F. Qi, D. Wipf, C. Can, T. Yu, Z. Gu, Y. Li, Y. Zhang, Z. Yu, W. Wu. Sparse Bayesian Learning for End-to-End EEG Decoding
 (accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence)."
 
 Wenlong Wang, Feifei Qi, Wei Wu, 2023.
