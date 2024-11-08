@@ -9,4 +9,4 @@ For more information on itEMD, refer to the following paper:
 Marco S. Fabus, Andrew J. Quinn, Catherine E. Warnaby, and Mark W. Woolrich (2021). Automatic decomposition of electroptysiological data into distinct nonsinusoidal oscillatory modes. Journal of Neurophysiology 2021 126:5, 1670-1684. https://doi.org/10.1152/jn.00315.2021.
 
 For more information on SBLEST, refer to the following paper:
-W. Wang, F. Qi, D. Wipf, C. Can, T. Yu, Z. Gu, Y. Li, Z. Yu, W. Wu. Sparse Bayesian Learning for End-to-End EEG Decoding, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 12, pp. 15632-15649, 2023.
+W. Wang, F. Qi, D. Wipf, C. Can, T. Yu, Z. Gu, Y. Li, Y. Zhang, Z. Yu, W. Wu. Sparse Bayesian Learning for End-to-End EEG Decoding, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 12, pp. 15632-15649, 2023.
